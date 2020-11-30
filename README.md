@@ -1,10 +1,10 @@
 ### Hi there, I'm Shubham 👋
 
-I am a data scientist interested in building impactful innovative products with data, sciences and passion! 🐣
+I am a data scientist interested in building impactful and innovative solutions with data, sciences and passion! 🐣
 
 - 🔭 I'm currently working as Data Science Associate Consultant at ZS Associates, India
 - 👯 I’m looking to collaborate on impact of climate change and transformative products
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess
 
 ### Skills:
